@@ -1,0 +1,122 @@
+[
+	{
+		"title": "Pan",
+		"description": "Pan blanco",
+		"categoria": "panificado",
+		"price": 200,
+		"thumbnail": "sin imagen",
+		"code": "Ab1",
+		"status": true,
+		"stock": 15,
+		"id": 1
+	},
+	{
+		"title": "Pan salvado",
+		"description": "pan con salvado y semillas",
+		"categoria": "panificado",
+		"price": 300,
+		"thumbnail": "sin imagen",
+		"code": "Ab2",
+		"status": true,
+		"stock": 5,
+		"id": 2
+	},
+	{
+		"title": "Pan baguette",
+		"description": "pan largo",
+		"categoria": "panificado",
+		"price": 200,
+		"thumbnail": "sin imagen",
+		"code": "Ab3",
+		"status": true,
+		"stock": 8,
+		"id": 3
+	},
+	{
+		"title": "Pan de hamburguesa",
+		"description": "se vende por docena, pan en forma redonda para hamburguesa",
+		"categoria": "panificado",
+		"price": 250,
+		"thumbnail": "sin imagen",
+		"code": "Ab4",
+		"status": true,
+		"stock": 15,
+		"id": 4
+	},
+	{
+		"title": "Pre-pizza",
+		"description": "se venden por dos",
+		"categoria": "panificado",
+		"price": 100,
+		"thumbnail": "sin imagen",
+		"code": "Ab5",
+		"status": true,
+		"stock": 12,
+		"id": 5
+	},
+	{
+		"title": "Factura",
+		"description": "De dulce de leche o crema",
+		"categoria": "confiteria",
+		"price": 400,
+		"thumbnail": "sin imagen",
+		"code": "Ac1",
+		"status": true,
+		"stock": 10,
+		"id": 6
+	},
+	{
+		"title": "Vigilantes",
+		"description": "con dl d leche y crema",
+		"categoria": "confiteria",
+		"price": 350,
+		"thumbnail": "sin imagen",
+		"code": "Ac2",
+		"status": true,
+		"stock": 5,
+		"id": 7
+	},
+	{
+		"title": "Palitos materos",
+		"description": "Palitos hojaldrados azucarados, por bolsita ",
+		"categoria": "confiteria",
+		"price": 50,
+		"thumbnail": "sin imagen",
+		"code": "Ac3",
+		"status": true,
+		"stock": 20,
+		"id": 8
+	},
+	{
+		"title": "pepas",
+		"description": "masa con dulce de leche o membrillo",
+		"categoria": "confiteria",
+		"price": 250,
+		"thumbnail": "sin imagen",
+		"code": "Ac4",
+		"status": true,
+		"stock": 25,
+		"id": 9
+	},
+	{
+		"title": "Tortas",
+		"description": "a eleccion, precio por kilo",
+		"categoria": "pasteleria",
+		"price": 600,
+		"thumbnail": "sin imagen",
+		"code": "B1",
+		"status": true,
+		"stock": 100,
+		"id": 10
+	},
+	{
+		"title": "pan de miga",
+		"description": "pan para sanguchitos",
+		"category": "panificado",
+		"price": "600",
+		"thumbnail": "Ab6",
+		"code": "15",
+		"status": true,
+		"id": 11
+	}
+]
